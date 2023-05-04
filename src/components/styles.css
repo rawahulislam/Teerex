@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: lightblue;
+  padding: 12px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.sidepannel {
+  display: flex;
+  background-color: snow;
+  border-radius: 10px;
+  text-shadow: 1px 1px;
+  box-shadow: 10px 10px 5px 10px lightblue;
+}
+.cart {
+  display: flex;
+  flex-direction: column;
+}
